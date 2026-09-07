@@ -1362,12 +1362,12 @@ function updateNavigation() {
     if (isLastPage) {
 
         DOM.nextBtn.textContent =
-            "Finish Quiz âœ“";
+            "Finish Quiz ✓";
 
     } else {
 
         DOM.nextBtn.textContent =
-            "Next â†’";
+            "Next →";
 
     }
 
