@@ -1424,7 +1424,7 @@ function updateProgress() {
 
 
         DOM.questionCounter.textContent =
-            `Questions ${firstQuestionNumber}â€“${lastQuestionNumber} / ${totalQuestions}`;
+            `Questions ${firstQuestionNumber}→${lastQuestionNumber} / ${totalQuestions}`;
 
     }
 
